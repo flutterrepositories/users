@@ -22,7 +22,7 @@ dependencies:
   share_plus: ^4.0.3
 
   #utils
-  intl: ^0.18.0;
+  intl: ^0.18.1;
   equatable: ^2.0.0
   meta: ^1.1.8
 
