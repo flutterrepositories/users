@@ -15,14 +15,14 @@ dependencies:
   syncfusion_flutter_charts: ^20.1.55
   rxdart: ^0.27.3
   #ui helpers
-  cloud_firestore: ^3.1.8
+  cloud_firestore: ^4.8.4 
   #firebase
-  firebase_auth: ^3.3.7
-  firebase_dynamic_links: ^4.1.2
+  firebase_auth: ^4.7.2
+  firebase_dynamic_links: ^5.3.4 
   share_plus: ^4.0.3
 
   #utils
-  intl: ^0.17.0
+  intl: ^0.18.0
   equatable: ^2.0.0
   meta: ^1.1.8
 
